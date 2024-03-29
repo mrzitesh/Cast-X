@@ -13,7 +13,3 @@ windows machine to the same wifi network and fill the ip address in textbox in 1
 <br>first time need to connect android device through cable and press connect button and after plug out 
 and press wifi button it will connect your android device to windows machine
 <br>*
-<br>*
-
-<br>
-![XCastSnap](https://github.com/mrniteshsma/Cast-X/assets/159615163/91d17de9-9de9-46d3-bb63-401dff135b86)
