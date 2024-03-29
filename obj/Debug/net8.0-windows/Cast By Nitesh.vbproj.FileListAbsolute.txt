@@ -1,0 +1,17 @@
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast_By_Nitesh.Form1.resources
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.vbproj.GenerateResource.cache
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.AssemblyInfoInputs.cache
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.AssemblyInfo.vb
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.vbproj.CoreCompileInputs.cache
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\bin\Debug\net8.0-windows\Cast By Nitesh.exe
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\bin\Debug\net8.0-windows\Cast By Nitesh.deps.json
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\bin\Debug\net8.0-windows\Cast By Nitesh.runtimeconfig.json
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\bin\Debug\net8.0-windows\Cast By Nitesh.dll
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\bin\Debug\net8.0-windows\Cast By Nitesh.pdb
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.dll
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\refint\Cast By Nitesh.dll
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.pdb
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.genruntimeconfig.cache
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\ref\Cast By Nitesh.dll
+C:\Users\Mr Nitesh\source\repos\Cast By Nitesh\obj\Debug\net8.0-windows\Cast By Nitesh.sourcelink.json
