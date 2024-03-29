@@ -1,20 +1,20 @@
 # Cast By Nitesh
-Cast-X Windows Application helps you to connect any android device to windows machine to share screen and much more.
-!!! Need to do 
-First you need to turn on Developer Option in Your Android Device.
-After that turn on USB Debugging Option in Your Android Device.
-Connect Your Android Device to Windows Machine.
-After that Allow Debugging to your android devices.
-now you can connect your android device display to your windows pc usingn Usb Button in the application
+<br>Cast-X Windows Application helps you to connect any android device to windows machine to share screen and much more.
+<br>!!! Need to do 
+<br>First you need to turn on Developer Option in Your Android Device.
+<br>After that turn on USB Debugging Option in Your Android Device.
+<br>Connect Your Android Device to Windows Machine.
+<br>After that Allow Debugging to your android devices.
+<br>now you can connect your android device display to your windows pc usingn Usb Button in the application
 and also your can use Wifi but before using wifi you need to turn on your mobile hotspot or connect 
 windows machine to the same wifi network and fill the ip address in textbox in 127.0.0.0 format 
-first time need to connect android device through cable and press connect button and after plug out 
+<br>first time need to connect android device through cable and press connect button and after plug out 
 and press wifi button it will connect your android device to windows machine
-*
-*
-*
-*
-This is the source code of this windows application.
+<br>*
+<br>*
+<br>*
+<br>*
+<br>This is the source code of this windows application.
 Imports System.Diagnostics
 Public Class Form1
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
