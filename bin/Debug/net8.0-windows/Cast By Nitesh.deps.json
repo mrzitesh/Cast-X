@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cast By Nitesh/1.0.0": {
+        "runtime": {
+          "Cast By Nitesh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cast By Nitesh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
