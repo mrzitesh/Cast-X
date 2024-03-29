@@ -15,3 +15,5 @@ and press wifi button it will connect your android device to windows machine
 <br>*
 <br>*
 
+<br>
+![XCastSnap](https://github.com/mrniteshsma/Cast-X/assets/159615163/74a6e920-6b94-4407-954e-1b1746ef6ab7)
