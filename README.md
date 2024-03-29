@@ -14,33 +14,4 @@ windows machine to the same wifi network and fill the ip address in textbox in 1
 and press wifi button it will connect your android device to windows machine
 <br>*
 <br>*
-<br>*
-<br>*
-<br>This is the source code of this windows application.
-<br>
-    Imports System.Diagnostics
-    Public Class Form1
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim process As New Process()
-        process.StartInfo.FileName = "Scrcpy\Usb.bat"
-        process.Start()
-
-    End Sub
-
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Dim process As New Process()
-        process.StartInfo.FileName = "Scrcpy\Wifi.bat"
-        process.Start()
-    End Sub
-
-    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        ' Get the ip address from the textbbox
-        Dim ipAddress As String = TextBox1.Text.Trim()
-        ' Execute the wifi batch script with the ip address as argument
-        Dim process As New Process()
-        process.StartInfo.FileName = "Scrcpy\Connect.bat"
-        process.StartInfo.Arguments = ipAddress
-        process.Start()
-    End Sub
-    End Class
 
